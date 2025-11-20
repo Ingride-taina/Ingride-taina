@@ -2,4 +2,3 @@
 
 -  🤖 Estudando Gdscripit
 - 🌱 Ainda iniciante!
--  Tenho projetos tanto em Front- end quanto em Back-end
