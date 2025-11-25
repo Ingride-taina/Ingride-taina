@@ -1,4 +1,4 @@
-# Olá!! Eu sou a Taina Oliveira, estudante de ADS e uma exploradora de tecnologias 
+# Olá!! Eu sou a Taina Oliveira, estudante de ADS
 
 -  🤖 Estudando Gdscripit
 - 🌱 Ainda iniciante!
