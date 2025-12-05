@@ -3,7 +3,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/Ingride-taina/Ingride-taina/refs/heads/main/Press%20Start%202P%20(1).png" height="396" alt="" />
 </p>
-<h1> Bem Vindo (a) ao meu perfil! </h1>
+<h1 align="center"> Bem Vindo (a) ao meu perfil! </h1>
 <p align="center">
   Olá, sou estudante de Análise e Desenvolvimento de Sistemas • Focada em Back-end • Explorando SAP e ABAP 🌱  
 </p>
