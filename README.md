@@ -15,7 +15,6 @@
 - Aprendendo GDScript e lógica no Godot  
 - Tô Sempre aberta a aprender e evoluir  
 
----
 
 ##  Tecnologias que estou aprendendo
 
@@ -38,7 +37,7 @@
 
 ## Como me encontrar
 
-- 📱 Telefone: ** +55 (99) 98157-9003**
+- 📱 Telefone:  +55 (99) 98157-9003
 - 📧 Email: **oliveiraingride972@gmail.com**  
 
 ---
