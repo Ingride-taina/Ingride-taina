@@ -1,6 +1,6 @@
 
 <!-- Banner ou imagem pessoal -->
-<p align="center" borderradius=20px>
+<p align="center">
   <img src="https://raw.githubusercontent.com/Ingride-taina/Ingride-taina/refs/heads/main/Press%20Start%202P%20(1).png" height="396" alt="" />
 </p>
 <h1 align="center"> Bem Vindo (a) ao meu perfil! </h1>
