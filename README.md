@@ -1,11 +1,9 @@
 
 <!-- Banner ou imagem pessoal -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Ingride-taina/Ingride-taina/refs/heads/main/Press%20Start%202P%20(1).png" height="396" alt="" /> width="300">
+  <img src="https://raw.githubusercontent.com/Ingride-taina/Ingride-taina/refs/heads/main/Press%20Start%202P%20(1).png" height="396" alt="" />
 </p>
 ---
-<h1 align="center"> Oi! Eu sou a Ingride Tainá </h1>
-
 <p align="center">
   Estudante de Análise e Desenvolvimento de Sistemas • Focada em Back-end • Explorando SAP e ABAP 🌱  
 </p>
