@@ -1,11 +1,11 @@
 
 <!-- Banner ou imagem pessoal -->
 <p align="center">
-  <img src="<img width="1584" height="396" alt="Press Start 2P" src="https://github.com/user-attachments/assets/1418703a-12a2-4df7-9db8-846ffcbef8e7" />
+  <img src="" height="396" alt="" />
 " width="300">
 </p>
 
-<h1 align="center">✨ Oi! Eu sou a Ingride Tainá ✨</h1>
+<h1 align="center"> Oi! Eu sou a Ingride Tainá ^~^ </h1>
 
 <p align="center">
   Estudante de Análise e Desenvolvimento de Sistemas • Focada em Back-end • Explorando SAP e ABAP 🌱  
@@ -13,18 +13,14 @@
 
 ---
 
-## 👩‍💻 Sobre mim
-
-- 🎓 Graduanda em ADS na UEMA  
-- 💻 Estudando Java, C e Desenvolvimento Web  
-- 💡 Começando meus estudos no ecossistema SAP/ABAP  
-- 🌱 Interessada em tecnologia, inovação e soluções com impacto  
-- 🎮 Aprendendo GDScript e lógica no Godot  
-- ✨ Sempre aberta a aprender e evoluir  
+## Sobre mim
+-  Interessada em tecnologia, inovação e soluções com impacto  
+- Aprendendo GDScript e lógica no Godot  
+- Tô Sempre aberta a aprender e evoluir  
 
 ---
 
-## 🚀 Tecnologias que estou aprendendo
+##  Tecnologias que estou aprendendo
 
 **Back-end:**  
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -43,41 +39,11 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white)
 
----
+## Como me encontrar
 
-## 📚 O que estou estudando agora
-
-- 🌐 Java e Programação Orientada a Objetos  
-- 🛠️ Spring Boot e APIs REST  
-- 🧩 SQL, JDBC e JPA/Hibernate  
-- 🐘 SAP e ABAP (iniciante)  
-- 🎮 Lógica e scripts com GDScript  
-
----
-
-## 🗂 Alguns dos meus projetos
-
-*(Você pode listar seus repositórios aqui depois)*  
-- 📌 Projeto 1 — descrição curta  
-- 📌 Projeto 2 — descrição curta  
-- 📌 Projeto 3 — descrição curta  
-
----
-
-## 📊 Estatísticas do GitHub (opcional)
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ingride-taina&show_icons=true&theme=tokyonight&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ingride-taina&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
-## 📬 Como me encontrar
-
-- 💼 LinkedIn: *seu link aqui*  
+- 📱 Telefone: ** +55 (99) 98157-9003**
 - 📧 Email: **oliveiraingride972@gmail.com**  
 
 ---
 
-<p align="center">✨ Obrigada por visitar meu perfil! ✨</p>
+<p align="center"> Obrigada por visitar meu perfil! </p>
