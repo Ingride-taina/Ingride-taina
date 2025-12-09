@@ -5,7 +5,7 @@
 </p>
 <h1 align="center"> Bem Vindo (a) ao meu perfil! </h1>
 <p align="center">
-  Olá, sou estudante de Análise e Desenvolvimento de Sistemas • Back-end • Java Spring 
+  Estudante de Análise e Desenvolvimento de Sistemas • Back-end Developer 
 </p>
 
 ## Sobre mim
