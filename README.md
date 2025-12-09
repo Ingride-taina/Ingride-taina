@@ -9,7 +9,7 @@
 </p>
 
 ## Sobre mim
-Desde sempre tive interesse em soluções que gerem impacto, ao conhecer o Desenvolvimento back-end pude entender como fazer isso com minhas próprias mãos ;) 
+Sempre tive interesse em soluções que gerem impacto, ao conhecer o Desenvolvimento back-end pude entender como desenvolve - las por conta própria🌱
 
 ##  Tecnologias que estou aprendendo
 
