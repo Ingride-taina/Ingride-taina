@@ -32,7 +32,7 @@
 
   </td>
 
-  <td width="40%" align="center" valign="top">
+  <td width="40%" align="center" valign="top" border="0">
       <img src="https://raw.githubusercontent.com/Ingride-taina/Ingride-taina/main/AIEnhancer_DesignME.png" width="250" />
     </td>
   </tr>
@@ -42,7 +42,7 @@
 
 <table border="0" cellspacing="0" cellpadding="0" width="100%">
   <tr>
-  <td width="60%" valign="top">
+  <td width="60%" valign="top" border="0">
 
   <h3>Back-end / Front-end:</h3>
 
@@ -62,8 +62,7 @@
 
 </td>
 
-<td
-width="40%" align="center">
+<td width="40%" align="center" border="0">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ingride-taina&layout=compact&theme=github_dark&cache_seconds=1800"
         width="250" />
 </td>
