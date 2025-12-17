@@ -29,11 +29,12 @@
 
 <h2>Tech Stacks</h2>
 
-<table border="0" cellspacing="0" cellpadding="0" width="100%">
-  <tr>
-  <td width="60%" valign="top" style="border: none">
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <div style="flex: 1;">
 
-  <h3>Back-end / Front-end:</h3>
+  <h3>Back-end / Front-end:</h3> <div style="margin-left: 20px;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ingride-taina&layout=compact&theme=github_dark&cache_seconds=1800"
+        width="250px" align="right" /> </div>
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="30"
   style="background:#7A8EDD; padding:10px; border-radius:8px;"/> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/c_original_logo_icon_146611.png" width="30"
@@ -49,13 +50,7 @@
   style="background:#7A8EDD; padding:10px; border-radius:8px;" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original-wordmark.svg" width="30"
   style="background:#7A8EDD; padding:10px; border-radius:8px;" />
 
-</td>
-
-<td width="80%" align="" style="border: none" >
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ingride-taina&layout=compact&theme=github_dark&cache_seconds=1800"
-        width="400px" />
-</td>
-  </tr>
-</table>
+  </div>
+</div>
 
 <p align="center">Obrigada por visitar meu perfil! 💜</p>
