@@ -1,29 +1,67 @@
 
 <!-- Banner ou imagem pessoal -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Ingride-taina/Ingride-taina/refs/heads/main/Press%20Start%202P%20(1).png" height="396" alt="" />
+
+<p align= "center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Krona+One&pause=1000&color=7A8EDD89&width=435&lines=BEM+VINDO(A)+AO+MEU+PERFIL+!" alt="Typing SVG"/></a>
 </p>
-<h1 align="center"> Bem Vindo (a) ao meu perfil! </h1>
 <p align="center">
-  Estudante de Análise e Desenvolvimento de Sistemas • Back-end Developer 
+  Systems Development • Back-end • Front- end
 </p>
 
-## Sobre mim
-Sempre tive interesse em soluções que gerem impacto, ao conhecer o Desenvolvimento back-end pude entender como desenvolve - las por conta própria🌱
+<p align= "center">
+<i> I've always been interested in solutions that generate impact, and through programming I seek to develop them on my own 🌱</i> </p>
 
-##  Tecnologias que estou aprendendo
+<table>
+  <tr>
+    <td align="left" width="60%">
+      <h2> Olá 👋</h2>
+      <p> I am a student focused on<b> full-stack development</b><br>
+        🎓 Studying ADS<br>
+      </p>
 
-**Back-end:**  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+  <p><b>Hobbies:</b></p>
+      <ul>
+        <li>Coding</li>
+        <li>Studying</li>
+        <li>learn new technologies</li>
+      </ul>
+    </td>
 
-**Front-end:**  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-**SAP:**  
-![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
+  <td align="center" width="40%">
+      <img src="https://raw.githubusercontent.com/Ingride-taina/Ingride-taina/refs/heads/main/AIEnhancer_DesignME.png" width="250px"/>
+    </td>
+  </tr>
+</table>
 
-**Outros:**  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white) 
----
+
+<h2>Tech Stakcs</h2>
+
+<table width= " 100%">
+    <tr>
+      <td>
+       <h3>Back-end / Front-end:</h3>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="30px"  style="background:#7A8EDD89; padding:10px; border-radius:8px;" /> 
+<img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/c_original_logo_icon_146611.png" width="30px"  style="background:#7A8EDD89; padding:10px; border-radius:8px;" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="30px"  style="background:#7A8EDD89; padding:10px; border-radius:8px;" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg" width="30px" style="background:#7A8EDD89; padding:10px; border-radius:8px;" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" width="30px"  style="background:#7A8EDD89; padding:10px; border-radius:8px;" />
+          
+
+**Others:**  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="30px"  style="background:#7A8EDD89; padding:10px; border-radius:8px;" /> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="30px"  style="background:#7A8EDD89; padding:10px; border-radius:8px;" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original-wordmark.svg" width="30px" style="background:#7A8EDD89; padding:10px; border-radius:8px;" />
+</td>
+
+<td>
+<img 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ingride-taina&layout=compact&theme=github_dark&cache_seconds=1800" 
+  alt="My Programming Languages"
+  width="250"/>
+  </td>
+</tr>
+</table>  
+
+<h3></h3>
+          
 
 <p align="center"> Obrigada por visitar meu perfil! </p>
