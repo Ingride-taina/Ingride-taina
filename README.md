@@ -18,8 +18,8 @@
     <h2>Olá 👋</h2>
     <p>
       I am a student focused on <b>full-stack development</b><br> <img src= "https://raw.githubusercontent.com/Ingride-taina/Ingride-taina/main/AIEnhancer_DesignME.png" align="right"; width="200px";>
-      🎓 Studying ADS
     </p>
+    <p>🎓 Studying ADS</p>
     <b>Hobbies:</b> 
     <ul>
       <li>Coding</li>
