@@ -13,26 +13,17 @@
   <i>I've always been interested in solutions that generate impact, and through programming I seek to develop them on my own 🌱</i>
 </p>
 
-<table cellspacing="0" cellpadding="0" width="100%">
-  <tr>
-    <td width="60%" valign="top" style="border: none";>
-
-  <div style="display: flex; justify-content: space-between; align-items: flex-start;">
+  <div style="display: flex; justify-content: space-between; flex-start;align-items="center"">
   <div style="flex: 1;">
     <h2>Olá 👋</h2>
     <p>
-      I am a student focused on <b>full-stack development</b><br>
+      I am a student focused on <b>full-stack development</b><br> <img src= "https://raw.githubusercontent.com/Ingride-taina/Ingride-taina/main/AIEnhancer_DesignME.png" align="right"; width="200px"; ; >
       🎓 Studying ADS
     </p>
-    <b>Hobbies:</b>
+    <b>Hobbies:</b> 
     <ul>
       <li>Coding</li>
-      <li>Studying</li>
-      <li>Learning new technologies</li>
-    </ul>
-  </div>
-  <div style="margin-left: 20px;">
-    <img src="https://raw.githubusercontent.com/Ingride-taina/Ingride-taina/main/AIEnhancer_DesignME.png" width="250" />
+      <li>Studying</li> <li>Learning new technologies</li>  </ul> 
   </div>
 </div>
 
@@ -60,9 +51,9 @@
 
 </td>
 
-<td width="40%" align="center" style="border: none" >
+<td width="80%" align="" style="border: none" >
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ingride-taina&layout=compact&theme=github_dark&cache_seconds=1800"
-        width="250" />
+        width="400px" />
 </td>
   </tr>
 </table>
