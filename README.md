@@ -23,7 +23,7 @@
     <b>Hobbies:</b> 
     <ul>
       <li>Coding</li>
-      <li>Studying</li> <li>Learning new technologies</li>  </ul> 
+      <li>Studying</li> <li>Learn new technologies</li>  </ul> 
   </div>
 </div>
 
@@ -32,8 +32,7 @@
 <div style="display: flex; justify-content: space-between; align-items: center;">
   <div style="flex: 1;">
 
-  <h3>Back-end / Front-end:</h3> <div style="margin-left: 20px;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ingride-taina&layout=compact&theme=github_dark&cache_seconds=1800"
+  <h3>Back-end / Front-end:</h3> <div style="margin-left: 20px;"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ingride-taina&layout=compact&theme=github_dark&cache_seconds=1800"
         width="250px" align="right" /> </div>
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="30"
