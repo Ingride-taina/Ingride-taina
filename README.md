@@ -13,9 +13,9 @@
   <i>I've always been interested in solutions that generate impact, and through programming I seek to develop them on my own 🌱</i>
 </p>
 
-<table border="0" cellspacing="0" cellpadding="0" width="100%">
+<table cellspacing="0" cellpadding="0" width="100%">
   <tr>
-    <td width="60%" valign="top" style="border: none;>
+    <td width="60%" valign="top" style="border: none";>
 
   <h2>Olá 👋</h2>
       <p>
@@ -32,8 +32,8 @@
 
   </td>
 
-  <td width="40%" align="center" valign="top" style="border: none";>
-      <img src="https://raw.githubusercontent.com/Ingride-taina/Ingride-taina/main/AIEnhancer_DesignME.png" width="250" />
+  <td width="40%" align="center" valign="top" style="border: none">
+      <img src="https://raw.githubusercontent.com/Ingride-taina/Ingride-taina/main/AIEnhancer_DesignME.png" width="250" style="border: none" />
     </td>
   </tr>
 </table>
@@ -42,7 +42,7 @@
 
 <table border="0" cellspacing="0" cellpadding="0" width="100%">
   <tr>
-  <td width="60%" valign="top" style="border: none";>
+  <td width="60%" valign="top" style="border: none">
 
   <h3>Back-end / Front-end:</h3>
 
@@ -62,7 +62,7 @@
 
 </td>
 
-<td width="40%" align="center" border="0" >
+<td width="40%" align="center" style="border: none" >
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ingride-taina&layout=compact&theme=github_dark&cache_seconds=1800"
         width="250" />
 </td>
