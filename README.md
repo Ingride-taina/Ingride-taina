@@ -1,67 +1,73 @@
 
-<!-- Banner ou imagem pessoal -->
-
-<p align= "center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Krona+One&pause=1000&color=7A8EDD89&width=435&lines=BEM+VINDO(A)+AO+MEU+PERFIL+!" alt="Typing SVG"/></a>
-</p>
-<p align="center" style="background:#7A8EDD89; padding:10px; border-radius:20px" >
-  Systems Development • Back-end • Front- end
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Krona+One&pause=1000&color=7A8EDD&width=435&lines=BEM+VINDO(A)+AO+MEU+PERFIL+!" />
+  </a>
 </p>
 
-<p align= "center">
-<i> I've always been interested in solutions that generate impact, and through programming I seek to develop them on my own 🌱</i> </p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Systems_Development-Back--end_•_Front--end-7A8EDD?style=for-the-badge" />
+</p>
 
-<table  border="0" cellspacing="0" cellpadding="0" width="100%" >
+<p align="center">
+  <i>I've always been interested in solutions that generate impact, and through programming I seek to develop them on my own 🌱</i>
+</p>
+
+<table border="0" cellspacing="0" cellpadding="0" width="100%">
   <tr>
-    <td width="60%" valign="top" style="border:none;" align="left" width="60%">
-      <h2> Olá 👋</h2>
-      <p> I am a student focused on<b> full-stack development</b><br>
-        🎓 Studying ADS<br>
+    <td width="60%" valign="top">
+
+  <h2>Olá 👋</h2>
+      <p>
+        I am a student focused on <b>full-stack development</b><br>
+        🎓 Studying ADS
       </p>
 
-  <p><b>Hobbies:</b></p>
-      <ul>
-        <li>Coding</li>
+<b>Hobbies:</b>
+    <ul>
+       <li>Coding</li>
         <li>Studying</li>
-        <li>learn new technologies</li>
+        <li>Learning new technologies</li>
       </ul>
-    </td>
 
+  </td>
 
-  <td width="40%" align="center" valign="top" style="border:none;">
-      <img src="https://raw.githubusercontent.com/Ingride-taina/Ingride-taina/refs/heads/main/AIEnhancer_DesignME.png" width="250px"/>
+  <td width="40%" align="center" valign="top">
+      <img src="https://raw.githubusercontent.com/Ingride-taina/Ingride-taina/main/AIEnhancer_DesignME.png" width="250" />
     </td>
   </tr>
 </table>
 
+<h2>Tech Stacks</h2>
 
-<h2>Tech Stakcs</h2>
+<table border="0" cellspacing="0" cellpadding="0" width="100%">
+  <tr>
+  <td width="60%" valign="top">
 
-<table border="0" cellspacing="0" cellpadding="0" width= " 100%">
-    <tr>
-      <td width="60%" valign="top" style="border:none;">
-       <h3>Back-end / Front-end:</h3>
+  <h3>Back-end / Front-end:</h3>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="30px"  style="background:#7A8EDD89; padding:10px; border-radius:8px;" /> 
-<img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/c_original_logo_icon_146611.png" width="30px"  style="background:#7A8EDD89; padding:10px; border-radius:8px;" />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="30px"  style="background:#7A8EDD89; padding:10px; border-radius:8px;" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg" width="30px" style="background:#7A8EDD89; padding:10px; border-radius:8px;" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" width="30px"  style="background:#7A8EDD89; padding:10px; border-radius:8px;" />
-          
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="30"
+  style="background:#7A8EDD; padding:10px; border-radius:8px;"/> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/c_original_logo_icon_146611.png" width="30"
+  style="background:#7A8EDD; padding:10px; border-radius:8px;"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="30"
+  style="background:#7A8EDD; padding:10px; border-radius:8px;"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg" width="30"
+  style="background:#7A8EDD; padding:10px; border-radius:8px;"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" width="30"
+  style="background:#7A8EDD; padding:10px; border-radius:8px;"/>
 
-**Others:**  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="30px"  style="background:#7A8EDD89; padding:10px; border-radius:8px;" /> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="30px"  style="background:#7A8EDD89; padding:10px; border-radius:8px;" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original-wordmark.svg" width="30px" style="background:#7A8EDD89; padding:10px; border-radius:8px;" />
+  <h3>Others:</h3>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="30"
+  style="background:#7A8EDD; padding:10px; border-radius:8px;" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="30"
+  style="background:#7A8EDD; padding:10px; border-radius:8px;" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original-wordmark.svg" width="30"
+        style="background:#7A8EDD; padding:10px; border-radius:8px;" />
+
 </td>
 
-<td width="35%" align="center" valign="top" style="border:none;" >
-<img 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ingride-taina&layout=compact&theme=github_dark&cache_seconds=1800" 
-  alt="My Programming Languages"
-  width="250"/>
-  </td>
-</tr>
-</table>  
+<td
+width="40%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ingride-taina&layout=compact&theme=github_dark&cache_seconds=1800"
+        width="250" />
+</td>
+  </tr>
+</table>
 
-<h3></h3>
-          
-
-<p align="center"> Obrigada por visitar meu perfil! </p>
+<p align="center">Obrigada por visitar meu perfil! 💜</p>
