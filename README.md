@@ -15,7 +15,7 @@
 
 <table border="0" cellspacing="0" cellpadding="0" width="100%">
   <tr>
-    <td width="60%" valign="top">
+    <td width="60%" valign="top" style="border: none;>
 
   <h2>Olá 👋</h2>
       <p>
@@ -32,7 +32,7 @@
 
   </td>
 
-  <td width="40%" align="center" valign="top" border="0">
+  <td width="40%" align="center" valign="top" style="border: none";>
       <img src="https://raw.githubusercontent.com/Ingride-taina/Ingride-taina/main/AIEnhancer_DesignME.png" width="250" />
     </td>
   </tr>
@@ -42,7 +42,7 @@
 
 <table border="0" cellspacing="0" cellpadding="0" width="100%">
   <tr>
-  <td width="60%" valign="top" border="0">
+  <td width="60%" valign="top" style="border: none";>
 
   <h3>Back-end / Front-end:</h3>
 
@@ -58,11 +58,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="30"
   style="background:#7A8EDD; padding:10px; border-radius:8px;" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="30"
   style="background:#7A8EDD; padding:10px; border-radius:8px;" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original-wordmark.svg" width="30"
-        style="background:#7A8EDD; padding:10px; border-radius:8px;" />
+  style="background:#7A8EDD; padding:10px; border-radius:8px;" />
 
 </td>
 
-<td width="40%" align="center" border="0">
+<td width="40%" align="center" border="0" >
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ingride-taina&layout=compact&theme=github_dark&cache_seconds=1800"
         width="250" />
 </td>
