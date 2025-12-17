@@ -17,26 +17,24 @@
   <tr>
     <td width="60%" valign="top" style="border: none";>
 
-  <h2>Olá 👋</h2>
-      <p>
-        I am a student focused on <b>full-stack development</b><br>
-        🎓 Studying ADS
-      </p>
-
-<b>Hobbies:</b>
+  <div style="display: flex; justify-content: space-between; align-items: flex-start;">
+  <div style="flex: 1;">
+    <h2>Olá 👋</h2>
+    <p>
+      I am a student focused on <b>full-stack development</b><br>
+      🎓 Studying ADS
+    </p>
+    <b>Hobbies:</b>
     <ul>
-       <li>Coding</li>
-        <li>Studying</li>
-        <li>Learning new technologies</li>
-      </ul>
-
-  </td>
-
-  <td width="40%" align="center" valign="top" style="border: none">
-      <img src="https://raw.githubusercontent.com/Ingride-taina/Ingride-taina/main/AIEnhancer_DesignME.png" width="250" style="border: none" />
-    </td>
-  </tr>
-</table>
+      <li>Coding</li>
+      <li>Studying</li>
+      <li>Learning new technologies</li>
+    </ul>
+  </div>
+  <div style="margin-left: 20px;">
+    <img src="https://raw.githubusercontent.com/Ingride-taina/Ingride-taina/main/AIEnhancer_DesignME.png" width="250" />
+  </div>
+</div>
 
 <h2>Tech Stacks</h2>
 
