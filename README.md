@@ -17,7 +17,7 @@
   <div style="flex: 1;">
     <h2>Olá 👋</h2>
     <p>
-      I am a student focused on <b>full-stack development</b><br> <img src= "https://raw.githubusercontent.com/Ingride-taina/Ingride-taina/main/AIEnhancer_DesignME.png" align="right"; width="200px";>
+      I am a student focused on <b>Back-end development</b><br> <img src= "https://raw.githubusercontent.com/Ingride-taina/Ingride-taina/main/AIEnhancer_DesignME.png" align="right"; width="200px";>
     </p>
     <p>🎓 Studying ADS</p>
     <b>Hobbies:</b> 
